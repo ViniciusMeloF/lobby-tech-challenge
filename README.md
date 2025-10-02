@@ -3,7 +3,7 @@
 Bem-vindos ao repositório do desafio da **Lobby Tech** para a posição de Desenvolvedor FrontEnd.
 Este README contém todas as informações e instruções necessárias.
 
-### Link para demo:
+### Link para demo: https://lobby-tech-challenge.vercel.app/
 
 ## ✨ Tecnologias utilizadas
 
